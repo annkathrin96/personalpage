@@ -1,0 +1,169 @@
+/*******************TAG ELEMENT****************************/
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #40514E;
+  font-size: 20px;
+  line-height: normal;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #7c7575;
+  font-family: 'Amatic SC', cursive;
+  font-size: 90px;
+  line-height: normal;
+  margin-top: 50px;
+}
+
+h2 {
+  color: #b8b0b0;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: normal;
+  margin: 50px auto 0 auto;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #b8b0b0;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+  line-height: normal;
+  display: inline;
+}
+
+hr {
+  color: #b8b0b0;
+  width: 7%;
+  border-top: dotted;
+  border-width: 7px 0 0 0;
+  margin: 100px auto 100px auto;
+}
+
+a{
+    color: #7c7575;
+    font-size: 20px;
+    margin: 10px 10px;
+    text-decoration: none;
+  }
+
+a:hover{
+  color: #ffffff;
+}
+
+
+/*******************CLASS ELEMENT****************************/
+.container1 {
+  background-color: #fbf0f0;
+  padding-top: 150px;
+  position: relative;
+}
+
+.container2 {
+  background-color: white;
+  margin: auto 0;
+}
+
+.container3 {
+  background-color: #dfd3d3;
+  margin: 0;
+  padding: 50px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  top: 200px;
+}
+
+.Intro{
+  width: 30%;
+  margin: 10px auto 10px auto;
+  line-height: 2
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 20px auto 90px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.gif-skills {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.gif-hobbies{
+  width:  25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-row{
+  width: 30%;
+  margin: 20px auto 90px auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.links{
+  font-family: 'Roboto Condensed', sans-serif;
+  word-spacing: 10px;
+  line-height: 2
+}
+
+
+
+.copyright{
+  color: white;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 15px;
+}
+
+.button {
+	background-color:#dfd3d3;
+	-webkit-border-top-left-radius:17px;
+	-moz-border-radius-topleft:17px;
+	border-top-left-radius:17px;
+	-webkit-border-top-right-radius:17px;
+	-moz-border-radius-topright:17px;
+	border-top-right-radius:17px;
+	-webkit-border-bottom-right-radius:17px;
+	-moz-border-radius-bottomright:17px;
+	border-bottom-right-radius:17px;
+	-webkit-border-bottom-left-radius:17px;
+	-moz-border-radius-bottomleft:17px;
+	border-bottom-left-radius:17px;
+text-indent:0;
+	border:1px solid #dfd3d3;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:136px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #dfd3d3;
+}.button:hover {
+	background-color:#b8b0b0;
+}.button:active {
+	position:relative;
+	top:1px;
+}
+
+/*******************ID ELEMENT****************************/
